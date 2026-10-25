@@ -17,7 +17,7 @@
 
 ## 📥 立即下载
 
-👉 **[点击这里前往 Releases 页面下载最新版安装包](请把这里换成你的Releases页面链接)**
+👉 **[点击这里前往 Releases 页面下载最新版安装包](https://github.com/Josh-20131205/Maths/releases/tag/v1.0.0)**
 
 > **安装说明**：
 > 1. 下载 `Setup.exe` 安装程序。
